@@ -1,0 +1,423 @@
+[
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "test_type": [
+      "A",
+      "E",
+      "B",
+      "C",
+      "D",
+      "P"
+    ],
+    "description": "Composite development report drawing on ability, exercise, situational judgement, competency, 360 and personality data to summarise a candidate's skill profile.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice knowledge test covering core .NET Framework 4.5 concepts.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of the ASP.NET MVC framework.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of the MVVM design pattern in .NET.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of Windows Communication Foundation (WCF).",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of Windows Presentation Foundation (WPF).",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of XAML markup used in .NET UI development.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of accounts payable processes and procedures.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "test_type": [
+      "S"
+    ],
+    "description": "Simulation-based assessment of accounts payable task execution in a realistic work sample.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of accounts receivable processes and procedures.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "test_type": [
+      "S"
+    ],
+    "description": "Simulation-based assessment of accounts receivable task execution in a realistic work sample.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of ADO.NET data access technology.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of Adobe Experience Manager (AEM) content management.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of Adobe Photoshop CC tools and workflows.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring core aeronautical engineering knowledge.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring core aerospace engineering knowledge.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of Agile principles and software development practices.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of testing practices within Agile development.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "test_type": [
+      "P"
+    ],
+    "description": "Assessment of behavioural readiness and working style for roles that involve applying AI tools.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of AWS development services and architecture.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of native Android application development.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of the Angular 6 front-end framework.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of the AngularJS front-end framework.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test measuring knowledge of the Apache Hadoop big-data ecosystem.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/",
+    "test_type": [
+      "K"
+    ],
+    "description": "Multi-choice test that measures the knowledge of Java class design, exceptions, generics, collections, concurrency, JDBC and Java I/O fundamentals.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Occupational Personality Questionnaire (OPQ32r)",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": [
+      "P"
+    ],
+    "description": "Widely used measure of workplace behavioural style, giving HR professionals and managers a clear framework for understanding the impact of personality on job performance.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "SHL Verify Interactive - Deductive Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-deductive-reasoning",
+    "test_type": [
+      "A"
+    ],
+    "description": "Measures the ability to draw logical conclusions from given information, evaluate arguments, and complete scenarios using incomplete information.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "test_type": [
+      "A"
+    ],
+    "description": "Evaluates the ability to identify patterns in data or situations and generalise that information to broader contexts.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "test_type": [
+      "A"
+    ],
+    "description": "Adaptive test measuring the ability to perform numerical calculations and identify errors quickly and accurately; suited to entry-level roles.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "SHL Verify Interactive - Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "test_type": [
+      "A"
+    ],
+    "description": "Assesses how well a candidate comprehends and reasons with numerical information presented in different formats.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/verify-interactive-ability-report/",
+    "test_type": [
+      "A"
+    ],
+    "description": "Combined report summarising results across the Verify Interactive suite of cognitive ability assessments.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "test_type": [
+      "A"
+    ],
+    "description": "Cognitive assessment measuring the ability to respond to instrument feedback and monitor variations in a production process within safe control limits.",
+    "job_levels": [],
+    "languages": [],
+    "remote_testing": false,
+    "adaptive_irt": false,
+    "detail_fetch_ok": false
+  }
+]
