@@ -1,0 +1,38 @@
+[
+  {
+    "id": "trace_java_dev",
+    "persona": "Recruiter hiring a mid-level Java backend developer who collaborates closely with non-technical stakeholders",
+    "facts": {
+      "role": "Java backend developer",
+      "seniority": "mid-level, about 4 years experience",
+      "must_have": ["Java knowledge", "stakeholder communication"],
+      "test_type_preference": "no strong preference"
+    },
+    "expected_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/java-8-new/"
+    ]
+  },
+  {
+    "id": "trace_personality_only",
+    "persona": "HR business partner who wants a personality/behavioural style measure for a leadership pipeline, not a skills test",
+    "facts": {
+      "role": "internal leadership pipeline, multiple functions",
+      "test_type_preference": "personality and behavioural style only, no knowledge tests"
+    },
+    "expected_urls": [
+      "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/"
+    ]
+  },
+  {
+    "id": "trace_cognitive_entry_level",
+    "persona": "Recruiter screening high volume entry-level operations candidates and wants a quick numerical/cognitive screen",
+    "facts": {
+      "role": "entry-level operations associate",
+      "must_have": ["fast numerical screening", "adaptive/short if possible"]
+    },
+    "expected_urls": [
+      "https://www.shl.com/solutions/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+      "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/"
+    ]
+  }
+]
